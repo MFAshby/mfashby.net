@@ -1,0 +1,1 @@
+scp -r _site/* pi@raspberrypi:/var/www/mfashby.net/

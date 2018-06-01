@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "New Site"
+date:   2018-05-31 17:51:07 +0100
+categories: jekyll update
+---
+
+I'm intending this site to be a mix of personal tech projects & writing about stuff in my life. 
+
+This site is currently built with [Jekyll][jekyll], and served using [nginx][nginx] from my [Raspberry Pi Model 2B][rpi-2b]. I'm currently editing it with [VS Code][vscode].
+
+The same Raspberry also hosts [my wife's blog][heyworlditshenry], where she writes about our son Henry, who sadly passed away shortly after he was born.
+
+[jekyll]: https://jekyllrb.com/
+[nginx]: https://nginx.com
+[rpi-2b]: https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
+[heyworlditshenry]: https://heyworlditshenry.com/
+[vscode]: https://code.visualstudio.com/
