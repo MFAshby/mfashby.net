@@ -11,6 +11,8 @@ This site is currently built with [Jekyll][jekyll], and served using [nginx][ngi
 
 The same Raspberry also hosts [my wife's blog][heyworlditshenry], where she writes about our son Henry, who sadly passed away shortly after he was born.
 
+I've got a few personal projects active at the moment, and I hope to write about all of them!
+
 [jekyll]: https://jekyllrb.com/
 [nginx]: https://nginx.com
 [rpi-2b]: https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
