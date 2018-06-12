@@ -5,16 +5,11 @@ date:   2018-05-31 17:51:07 +0100
 categories: jekyll update
 ---
 
-I'm intending this site to be a mix of personal tech projects & writing about stuff in my life. 
+I'm intending to write more online about the stuff I tinker with. 
 
-This site is currently built with [Jekyll][jekyll], and served using [nginx][nginx] from my [Raspberry Pi Model 2B][rpi-2b]. I'm currently editing it with [VS Code][vscode].
+You can expect posts about 
+* what I do with my [Raspberry Pi](https://www.raspberrypi.org), 
+* websites and servers that I run including [my wife's blog](https://heyworlditshenry.com) and my [email server](https://mail.mfashby.net) 
+* more physical projects like getting a [RepRap](https://reprap.org/) up and running
 
-The same Raspberry also hosts [my wife's blog][heyworlditshenry], where she writes about our son Henry, who sadly passed away shortly after he was born.
-
-I've got a few personal projects active at the moment, and I hope to write about all of them!
-
-[jekyll]: https://jekyllrb.com/
-[nginx]: https://nginx.com
-[rpi-2b]: https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
-[heyworlditshenry]: https://heyworlditshenry.com/
-[vscode]: https://code.visualstudio.com/
+![reprap from above]({{ "/assets/reprap.jpg" | absolute_url }})

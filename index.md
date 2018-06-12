@@ -4,3 +4,6 @@
 
 layout: home
 ---
+I like to tinker with tech stuff, and I write about it here. 
+
+![small unicorn HAT image]({{ "/assets/unicorn_small.gif" | absolute_url }})

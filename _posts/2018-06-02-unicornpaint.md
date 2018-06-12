@@ -7,5 +7,6 @@ categories: jekyll update
 
 See [unicornpaint] for details. I'll write about this later...
 
+![animated image]({{ "/assets/unicorn.gif" | absolute_url }})
 
 [unicornpaint]:https://unicorn.mfashby.net

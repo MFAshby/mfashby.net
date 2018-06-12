@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a human living just outside Leeds in the UK.
+I'm a 29 year old human being, husband, father, tinkerer and sometimes software developer.
 
-I have been known to develop software, play music, and love my family. 
+This site is a space for me to share the technical details of my hobby projects. I hope it brings you some inspiration for your own. You can reach out to me via the email & twitter links below.
+
+![sunglasses]({{"/assets/sunglasses.jpg" | absolute_url }})
