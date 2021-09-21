@@ -6,7 +6,7 @@ draft: false
 
 ![Longboard](/longboard.jpg)
 
-I recently picked up longboaring. I enjoy snowboarding, but in the current pandemic + climate change it's looking less sustainable as a hobby, so I'm learning downhill longboarding.
+I recently picked up longboarding. I enjoy snowboarding, but in the current pandemic + climate change it's looking less sustainable as a hobby, so I'm learning downhill longboarding.
 
 Current setup is pictured, links for individual items:
 
