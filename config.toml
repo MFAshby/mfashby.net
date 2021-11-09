@@ -1,4 +1,4 @@
 baseURL = 'https://mfashby.net/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'mfashby.net'
 theme = "XMin"
